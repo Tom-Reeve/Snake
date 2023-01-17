@@ -1,2 +1,2 @@
 # Snake
-My attempt at the classical Snake game
+My attempt at the classic Snake game
