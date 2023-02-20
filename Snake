@@ -30,7 +30,7 @@
         <div id="title">Snake</div>
         <canvas id="canvas"></canvas>
         <div id="length_div">Length: <span id="length_span">0</span></div>
-        <div id="speed_div">Speed: <span id="speed_span">0</span>ms</div>
+        <div id="speed_div">Tick Speed: <span id="speed_span">0</span>ms</div>
         <div id="leaderboard">High Score: <span id="leaderboard_span">0</span></div>
         <script>
             const canvas = document.getElementById("canvas");
@@ -224,4 +224,4 @@
             }
         </script>
     </body>
-</html>              
+</html>
